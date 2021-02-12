@@ -3,7 +3,7 @@ import React from 'react'
 const UploadScreen = () => {
   return (
     <div>
-      Upload screen
+      Upload
     </div>
   )
 }
