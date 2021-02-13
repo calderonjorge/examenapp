@@ -16,3 +16,7 @@ User and password
 Build
 
 ### npm run build
+
+Live Preview 
+
+###  https://calderonjorge.github.io/examenapp/
